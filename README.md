@@ -1,5 +1,9 @@
 # FortKnox Payment Stack — System Documentation
 
+<p align="center">
+  <img src="images/SwiftDeployer.png" alt="SwiftDeployer Logo" width="120"/>
+</p>
+
 Two Spring Boot services that together form a secure ISO 20022 payment processing gateway.
 
 ---
